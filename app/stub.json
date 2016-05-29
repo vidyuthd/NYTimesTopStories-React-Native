@@ -1,0 +1,1492 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2016 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2016-05-20T04:35:04-04:00",
+  "num_results": 21,
+  "results": [
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Republicans Want Their Party to Unify Behind Donald Trump, Poll Shows",
+      "abstract": "Even with the desire for unity, a New York Times/CBS News poll shows extraordinarily high levels of unpopularity for both Mr. Trump and Hillary Clinton.",
+      "url": "http://www.nytimes.com/2016/05/20/us/politics/donald-trump-hillary-clinton-poll.html",
+      "byline": "By JONATHAN MARTIN and DALIA SUSSMAN",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T18:31:01-04:00",
+      "created_date": "2016-05-19T18:31:03-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2016",
+        "Voting and Voters",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Clinton, Hillary Rodham",
+        "Trump, Donald J",
+        "Sanders, Bernard"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20POLLweb1/20POLLweb1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump with his family this month in New York.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20POLLweb1/20POLLweb1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump with his family this month in New York.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20POLLweb1/20POLLweb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump with his family this month in New York.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20POLLweb1/20POLLweb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump with his family this month in New York.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20POLLweb1/20POLLweb1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump with his family this month in New York.",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXyVQr"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "What Would It Take for Donald Trump to Deport 11 Million and Build a Wall?",
+      "abstract": "Mr. Trump’s proposal, which calls for deporting millions and building a wall along the southern border, is financially, scientifically and legally problematic, experts say.",
+      "url": "http://www.nytimes.com/2016/05/20/us/politics/donald-trump-immigration.html",
+      "byline": "By JULIA PRESTON, ALAN RAPPEPORT and MATT RICHTEL",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T05:00:24-04:00",
+      "created_date": "2016-05-19T05:00:27-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2016",
+        "Immigration and Emigration",
+        "United States International Relations",
+        "Deportation"
+      ],
+      "org_facet": [
+        "Immigration and Customs Enforcement (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Mexico",
+        "Southwestern States (US)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18PROMISESweb-span/18PROMISESweb-span-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Border Patrol agent with Central Americans who entered the United States seeking asylum last month in Roma, Tex.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18PROMISESweb-span/18PROMISESweb-span-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Border Patrol agent with Central Americans who entered the United States seeking asylum last month in Roma, Tex.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18PROMISESweb-span/18PROMISESweb-span-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Border Patrol agent with Central Americans who entered the United States seeking asylum last month in Roma, Tex.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18PROMISESweb-span/18PROMISESweb-span-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Border Patrol agent with Central Americans who entered the United States seeking asylum last month in Roma, Tex.",
+          "copyright": "John Moore/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/18/us/18PROMISESweb-span/18PROMISESweb-span-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Border Patrol agent with Central Americans who entered the United States seeking asylum last month in Roma, Tex.",
+          "copyright": "John Moore/Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/251QInE"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Hillary Clinton Says Donald Trump Is Not Qualified to Be President",
+      "abstract": "Declaring herself the Democratic nominee, Mrs. Clinton said a number of her likely rival’s proposals prove how “unmoored” he is on foreign policy.",
+      "url": "http://www.nytimes.com/2016/05/20/us/politics/hillary-clinton-says-donald-trump-is-not-qualified-to-be-president.html",
+      "byline": "By AMY CHOZICK",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T15:37:09-04:00",
+      "created_date": "2016-05-19T15:37:11-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2016"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "CNN"
+      ],
+      "per_facet": [
+        "Clinton, Bill",
+        "Clinton, Hillary Rodham",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Illinois"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-clinton-web1/20fd-clinton-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton campaigning at Transylvania University in Lexington, Ky., on Monday.",
+          "copyright": "Aaron P. Bernstein/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-clinton-web1/20fd-clinton-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton campaigning at Transylvania University in Lexington, Ky., on Monday.",
+          "copyright": "Aaron P. Bernstein/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-clinton-web1/20fd-clinton-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton campaigning at Transylvania University in Lexington, Ky., on Monday.",
+          "copyright": "Aaron P. Bernstein/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-clinton-web1/20fd-clinton-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton campaigning at Transylvania University in Lexington, Ky., on Monday.",
+          "copyright": "Aaron P. Bernstein/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-clinton-web1/20fd-clinton-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hillary Clinton campaigning at Transylvania University in Lexington, Ky., on Monday.",
+          "copyright": "Aaron P. Bernstein/Reuters"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXf2Jb"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Bill Weld, Running as a Libertarian, Likens Donald Trump’s Immigration Plan to Kristallnacht",
+      "abstract": "William F. Weld, the twice-elected former Republican governor of Massachusetts, has agreed to run for vice president with former Gov. Gary Johnson of New Mexico.",
+      "url": "http://www.nytimes.com/2016/05/20/us/politics/libertarian-party-trump.html",
+      "byline": "By MAGGIE HABERMAN and THOMAS KAPLAN",
+      "item_type": "Article",
+      "updated_date": "2016-05-20T00:00:09-04:00",
+      "created_date": "2016-05-19T14:46:18-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Vice Presidents and Vice Presidency (US)",
+        "Presidential Election of 2016",
+        "Libertarianism (US Politics)"
+      ],
+      "org_facet": [
+        "Libertarian Party (US)"
+      ],
+      "per_facet": [
+        "Weld, William F",
+        "Johnson, Gary E",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-libertarian-web1/20fd-libertarian-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. William F. Weld of Massachusetts, who attended a church service in 2013 for the Boston Marathon bombing victims, hopes to be the Libertarian Party’s vice-presidential candidate in November.",
+          "copyright": "Yoon S. Byun/The Boston Globe, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-libertarian-web1/20fd-libertarian-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. William F. Weld of Massachusetts, who attended a church service in 2013 for the Boston Marathon bombing victims, hopes to be the Libertarian Party’s vice-presidential candidate in November.",
+          "copyright": "Yoon S. Byun/The Boston Globe, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-libertarian-web1/20fd-libertarian-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. William F. Weld of Massachusetts, who attended a church service in 2013 for the Boston Marathon bombing victims, hopes to be the Libertarian Party’s vice-presidential candidate in November.",
+          "copyright": "Yoon S. Byun/The Boston Globe, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-libertarian-web1/20fd-libertarian-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. William F. Weld of Massachusetts, who attended a church service in 2013 for the Boston Marathon bombing victims, hopes to be the Libertarian Party’s vice-presidential candidate in November.",
+          "copyright": "Yoon S. Byun/The Boston Globe, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20fd-libertarian-web1/20fd-libertarian-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. William F. Weld of Massachusetts, who attended a church service in 2013 for the Boston Marathon bombing victims, hopes to be the Libertarian Party’s vice-presidential candidate in November.",
+          "copyright": "Yoon S. Byun/The Boston Globe, via Getty Images"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rX8RF0"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "EgyptAir Flight Believed to Have Crashed at Sea; Egypt Cites Possible Terrorism",
+      "abstract": "Flight 804, carrying 66 people en route to Cairo from Paris, disappeared shortly before it was due to land. The reason was unclear, but the developments touched off fears about terrorism.",
+      "url": "http://www.nytimes.com/2016/05/20/world/middleeast/egyptair-flight-804.html",
+      "byline": "By DECLAN WALSH and KAREEM FAHIM",
+      "item_type": "Article",
+      "updated_date": "2016-05-20T00:02:24-04:00",
+      "created_date": "2016-05-19T03:20:25-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "Terrorism",
+        "Airport Security"
+      ],
+      "org_facet": [
+        "EgyptAir"
+      ],
+      "per_facet": [
+        "Hollande, Francois",
+        "Sisi, Abdel Fattah el-"
+      ],
+      "geo_facet": [
+        "Cairo (Egypt)",
+        "Greece",
+        "France",
+        "Mediterranean Sea"
+      ],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/251FPlH"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title": "EgyptAir Crash Blindsides a Nation That Thought It Was Recovering",
+      "abstract": "For years, Egypt has been hit with crisis after crisis, devastating its economic lifeblood, tourism. But recently, there had been signs of a turnaround.",
+      "url": "http://www.nytimes.com/2016/05/20/world/middleeast/egypt-egyptair-flight-804.html",
+      "byline": "By DECLAN WALSH",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T20:32:48-04:00",
+      "created_date": "2016-05-19T20:32:50-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "Terrorism",
+        "International Relations",
+        "Economic Conditions and Trends",
+        "Travel and Vacations",
+        "Airport Security"
+      ],
+      "org_facet": [
+        "EgyptAir"
+      ],
+      "per_facet": [
+        "Sisi, Abdel Fattah el-"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/JP-EGYPT/JP-EGYPT-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A relative of a passenger on EgyptAir Flight 804 inside a bus at the airport in Cairo on Thursday.",
+          "copyright": "Ahmed Abd El Fattah/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/JP-EGYPT/JP-EGYPT-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A relative of a passenger on EgyptAir Flight 804 inside a bus at the airport in Cairo on Thursday.",
+          "copyright": "Ahmed Abd El Fattah/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/JP-EGYPT/JP-EGYPT-articleInline.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A relative of a passenger on EgyptAir Flight 804 inside a bus at the airport in Cairo on Thursday.",
+          "copyright": "Ahmed Abd El Fattah/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/JP-EGYPT/JP-EGYPT-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A relative of a passenger on EgyptAir Flight 804 inside a bus at the airport in Cairo on Thursday.",
+          "copyright": "Ahmed Abd El Fattah/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/JP-EGYPT/JP-EGYPT-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1194,
+          "width": 1846,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A relative of a passenger on EgyptAir Flight 804 inside a bus at the airport in Cairo on Thursday.",
+          "copyright": "Ahmed Abd El Fattah/Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXJrXS"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Oklahoma Passes Bill That Would Subject Abortion Doctors to Felony Charges",
+      "abstract": "The State Senate measure, the first of its kind, would revoke such doctors’ medical licenses. The bill is on the desk of Gov. Mary Fallin.",
+      "url": "http://www.nytimes.com/2016/05/20/us/oklahoma-bill-abortion-doctors.html",
+      "byline": "By ERIK ECKHOLM",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T17:56:43-04:00",
+      "created_date": "2016-05-19T17:56:45-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Abortion",
+        "State Legislatures",
+        "Doctors"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Oklahoma"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20oklahoma-web/20oklahoma-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State Senator Nathan Dahm, the sponsor of the bill in Oklahoma City on Tuesday, expressed hope that it would lead the Supreme Court to overturn Roe v. Wade.",
+          "copyright": "Sue Ogrocki/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20oklahoma-web/20oklahoma-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State Senator Nathan Dahm, the sponsor of the bill in Oklahoma City on Tuesday, expressed hope that it would lead the Supreme Court to overturn Roe v. Wade.",
+          "copyright": "Sue Ogrocki/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20oklahoma-web/20oklahoma-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 140,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State Senator Nathan Dahm, the sponsor of the bill in Oklahoma City on Tuesday, expressed hope that it would lead the Supreme Court to overturn Roe v. Wade.",
+          "copyright": "Sue Ogrocki/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20oklahoma-web/20oklahoma-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State Senator Nathan Dahm, the sponsor of the bill in Oklahoma City on Tuesday, expressed hope that it would lead the Supreme Court to overturn Roe v. Wade.",
+          "copyright": "Sue Ogrocki/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20oklahoma-web/20oklahoma-web-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1513,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State Senator Nathan Dahm, the sponsor of the bill in Oklahoma City on Tuesday, expressed hope that it would lead the Supreme Court to overturn Roe v. Wade.",
+          "copyright": "Sue Ogrocki/Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXvfOp"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "San Francisco Forces Out Police Chief After Officer Kills Black Woman",
+      "abstract": "Police Chief Gregory P. Suhr was asked to resign after the third killing since December involving the police force.",
+      "url": "http://www.nytimes.com/2016/05/20/us/san-francisco-forces-out-police-chief-after-officer-kills-black-woman.html",
+      "byline": "By THOMAS FULLER and TIMOTHY WILLIAMS",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T22:44:52-04:00",
+      "created_date": "2016-05-19T21:55:09-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Race and Ethnicity",
+        "Police",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [
+        "Police Department (San Francisco, Calif)"
+      ],
+      "per_facet": [
+        "Lee, Edwin M",
+        "Suhr, Greg"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20sanfrancisco_web1/20sanfrancisco_web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Gregory P. Suhr of San Francisco during a news conference last month.",
+          "copyright": "Eric Risberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20sanfrancisco_web1/20sanfrancisco_web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Gregory P. Suhr of San Francisco during a news conference last month.",
+          "copyright": "Eric Risberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20sanfrancisco_web1/20sanfrancisco_web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Gregory P. Suhr of San Francisco during a news conference last month.",
+          "copyright": "Eric Risberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20sanfrancisco_web1/20sanfrancisco_web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Gregory P. Suhr of San Francisco during a news conference last month.",
+          "copyright": "Eric Risberg/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20sanfrancisco_web1/20sanfrancisco_web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Police Chief Gregory P. Suhr of San Francisco during a news conference last month.",
+          "copyright": "Eric Risberg/Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXNLGA"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "Media",
+      "title": "Morley Safer, Mainstay of ‘60 Minutes,’ Is Dead at 84",
+      "abstract": "Mr. Safer was on the CBS show for 46 years, and as a TV correspondent brought the horrors of the Vietnam War into America’s living rooms.",
+      "url": "http://www.nytimes.com/2016/05/19/business/media/morley-safer-dies.html",
+      "byline": "By ROBERT D. McFADDEN",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T14:29:13-04:00",
+      "created_date": "2016-05-19T12:41:20-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Deaths (Obituaries)",
+        "Vietnam War",
+        "60 Minutes (TV Program)",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "CBS Corporation"
+      ],
+      "per_facet": [
+        "Safer, Morley"
+      ],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/2536mPI"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Stealing From Ebola to Fight Zika",
+      "abstract": "The House voted to provide only about half of the emergency funds that the Senate did, and took the money away from other important programs.",
+      "url": "http://www.nytimes.com/2016/05/20/opinion/stealing-from-ebola-to-fight-zika.html",
+      "byline": "By THE EDITORIAL BOARD",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T19:29:16-04:00",
+      "created_date": "2016-05-19T19:29:18-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Zika Virus",
+        "Ebola Virus",
+        "Pesticides",
+        "Law and Legislation"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "House of Representatives",
+        "Republican Party",
+        "Environmental Protection Agency"
+      ],
+      "per_facet": [
+        "Obama, Barack"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20fri1/20fri1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dandy/John J. Custer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20fri1/20fri1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dandy/John J. Custer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20fri1/20fri1-articleInline.jpg",
+          "format": "Normal",
+          "height": 236,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dandy/John J. Custer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20fri1/20fri1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dandy/John J. Custer"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20fri1/20fri1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1300,
+          "width": 1046,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Dandy/John J. Custer"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXErT9"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Stop the Polling Insanity",
+      "abstract": "Do 28 percent of Latinos really support Donald Trump?",
+      "url": "http://www.nytimes.com/2016/05/20/opinion/stop-the-polling-insanity.html",
+      "byline": "By NORMAN J. ORNSTEIN and ALAN I. ABRAMOWITZ",
+      "item_type": "Article",
+      "updated_date": "2016-05-20T03:21:01-04:00",
+      "created_date": "2016-05-20T03:21:01-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Polls and Public Opinion",
+        "Presidential Election of 2016",
+        "Voting and Voters",
+        "News and News Media",
+        "Hispanic-Americans"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20ornsteinWeb/20ornsteinWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracking the numbers on primary night in Indiana.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20ornsteinWeb/20ornsteinWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracking the numbers on primary night in Indiana.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20ornsteinWeb/20ornsteinWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracking the numbers on primary night in Indiana.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20ornsteinWeb/20ornsteinWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracking the numbers on primary night in Indiana.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/opinion/20ornsteinWeb/20ornsteinWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1362,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tracking the numbers on primary night in Indiana.",
+          "copyright": "Eric Thayer for The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rYcOJx"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Aging in the Key of Humor",
+      "abstract": "Michael Kinsley, the famed writer and editor, has Parkinson’s disease. Now he’s trying to guide baby boomers into old age.",
+      "url": "http://www.nytimes.com/2016/05/20/opinion/aging-in-the-key-of-humor.html",
+      "byline": "By TIMOTHY EGAN",
+      "item_type": "Article",
+      "updated_date": "2016-05-20T03:21:01-04:00",
+      "created_date": "2016-05-20T03:21:01-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Parkinson's Disease",
+        "Memory",
+        "Comedy and Humor",
+        "Baby Boomers",
+        "Longevity",
+        "Elderly"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kinsley, Michael"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2014/11/01/opinion/egan-circular/egan-circular-thumbStandard-v2.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/11/01/opinion/egan-circular/egan-circular-thumbLarge-v4.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/11/01/opinion/egan-circular/egan-circular-articleInline-v2.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/11/01/opinion/egan-circular/egan-circular-mediumThreeByTwo210-v2.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2014/11/01/opinion/egan-circular/egan-circular-superJumbo-v2.png",
+          "format": "superJumbo",
+          "height": 228,
+          "width": 228,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Earl Wilson/The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/254RUqi"
+    },
+    {
+      "section": "World",
+      "subsection": "Americas",
+      "title": "Prosperous Mexican Farms Suck Up Water, Leaving Villages High and Dry",
+      "abstract": "Scientists warn that as farms bore deeper into the aquifer they are reaching tainted water deposited between 10,000 and 35,000 years ago.",
+      "url": "http://www.nytimes.com/2016/05/20/world/americas/mexico-water-farms-drought.html",
+      "byline": "By ELISABETH MALKIN",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T09:30:38-04:00",
+      "created_date": "2016-05-19T09:30:39-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Water",
+        "Agriculture and Farming",
+        "North American Free Trade Agreement",
+        "Shortages",
+        "Water Pollution",
+        "Fluorides",
+        "Arsenic"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Guanajuato (Mexico)",
+        "Mexico",
+        "San Antonio de Lourdes (Mexico)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20MEXICO-web1/20MEXICO-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Juan Carlos Zesati, center, blessing a recently constructed rainwater cistern in Guanajuato State, central Mexico.",
+          "copyright": "Janet Jarman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20MEXICO-web1/20MEXICO-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Juan Carlos Zesati, center, blessing a recently constructed rainwater cistern in Guanajuato State, central Mexico.",
+          "copyright": "Janet Jarman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20MEXICO-web1/20MEXICO-web1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Juan Carlos Zesati, center, blessing a recently constructed rainwater cistern in Guanajuato State, central Mexico.",
+          "copyright": "Janet Jarman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20MEXICO-web1/20MEXICO-web1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Juan Carlos Zesati, center, blessing a recently constructed rainwater cistern in Guanajuato State, central Mexico.",
+          "copyright": "Janet Jarman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/20MEXICO-web1/20MEXICO-web1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1359,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Rev. Juan Carlos Zesati, center, blessing a recently constructed rainwater cistern in Guanajuato State, central Mexico.",
+          "copyright": "Janet Jarman for The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/252sQAg"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Review: ‘O.J.: Made in America,’ an Unflinching Take on His Rise and Fall",
+      "abstract": "This ESPN documentary extends the narrative beyond the O.J. Simpson murder trial, as a biography and a history of race, fame, sports and Los Angeles.",
+      "url": "http://www.nytimes.com/2016/05/20/movies/oj-made-in-america-review.html",
+      "byline": "By A. O. SCOTT",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T14:19:23-04:00",
+      "created_date": "2016-05-19T14:19:25-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Documentary Films and Programs",
+        "O.J.: Made in America (Movie)",
+        "The People vs. O.J. Simpson (TV Program)"
+      ],
+      "org_facet": [
+        "ESPN",
+        "Police Department (Los Angeles, Calif)"
+      ],
+      "per_facet": [
+        "Edelman, Ezra",
+        "Simpson, O J",
+        "Simpson, Nicole Brown",
+        "Goldman, Ronald Lyle",
+        "King, Rodney Glen",
+        "Murphy, Ryan"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/arts/20OJ/20OJ-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "O. J. Simpson waving at fans in Buffalo.",
+          "copyright": "M. Osterreicher/ESPN Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/arts/20OJ/20OJ-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "O. J. Simpson waving at fans in Buffalo.",
+          "copyright": "M. Osterreicher/ESPN Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/arts/20OJ/20OJ-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "O. J. Simpson waving at fans in Buffalo.",
+          "copyright": "M. Osterreicher/ESPN Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/arts/20OJ/20OJ-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "O. J. Simpson waving at fans in Buffalo.",
+          "copyright": "M. Osterreicher/ESPN Films"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/arts/20OJ/20OJ-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1358,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "O. J. Simpson waving at fans in Buffalo.",
+          "copyright": "M. Osterreicher/ESPN Films"
+        }
+      ],
+      "short_url": "http://nyti.ms/253qrFz"
+    },
+    {
+      "section": "Fashion & Style",
+      "subsection": "",
+      "title": "Pioneertown Wants to Be the New Old West",
+      "abstract": "Founded in 1946 by a group of Hollywood legends like Roy Rogers and Gene Autry, the desert community is having something of a renaissance.",
+      "url": "http://www.nytimes.com/2016/05/19/fashion/pioneertown-hollywood-california-desert.html",
+      "byline": "By ALYSON KRUEGER",
+      "item_type": "Article",
+      "updated_date": "2016-05-18T11:55:26-04:00",
+      "created_date": "2016-05-18T11:55:28-04:00",
+      "published_date": "2016-05-19T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Culture (Arts)",
+        "Hotels and Travel Lodgings"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Pioneertown (Calif)",
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/fashion/19PIONEERTOWN/19PIONEERTOWN-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The brothers Matt French, left, and Mike French, in Pioneertown, Calif. They bought and renovated the nearby Pioneertown Motel, a single-story inn with 20 rooms.",
+          "copyright": "David Walter Banks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/fashion/19PIONEERTOWN/19PIONEERTOWN-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The brothers Matt French, left, and Mike French, in Pioneertown, Calif. They bought and renovated the nearby Pioneertown Motel, a single-story inn with 20 rooms.",
+          "copyright": "David Walter Banks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/fashion/19PIONEERTOWN/19PIONEERTOWN-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 139,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The brothers Matt French, left, and Mike French, in Pioneertown, Calif. They bought and renovated the nearby Pioneertown Motel, a single-story inn with 20 rooms.",
+          "copyright": "David Walter Banks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/fashion/19PIONEERTOWN/19PIONEERTOWN-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The brothers Matt French, left, and Mike French, in Pioneertown, Calif. They bought and renovated the nearby Pioneertown Motel, a single-story inn with 20 rooms.",
+          "copyright": "David Walter Banks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/19/fashion/19PIONEERTOWN/19PIONEERTOWN-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1495,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The brothers Matt French, left, and Mike French, in Pioneertown, Calif. They bought and renovated the nearby Pioneertown Motel, a single-story inn with 20 rooms.",
+          "copyright": "David Walter Banks for The New York Times"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rTYXnt"
+    },
+    {
+      "section": "World",
+      "subsection": "Africa",
+      "title": "Another Chibok Schoolgirl Kidnapped by Boko Haram Is Found, Nigeria Says",
+      "abstract": "The discovery of Serah Luka on Thursday was announced hours after Amina Ali, another kidnapping victim who was found Tuesday, met with President Muhammadu Buhari in the capital.",
+      "url": "http://www.nytimes.com/2016/05/20/world/africa/boko-haram-abducted-nigeria-schoolgirls-found-rescue-chibok.html",
+      "byline": "By CHRIS STEIN and DIONNE SEARCEY",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T19:58:28-04:00",
+      "created_date": "2016-05-19T17:43:00-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Kidnapping and Hostages",
+        "Women and Girls",
+        "Sex Crimes"
+      ],
+      "org_facet": [
+        "Boko Haram"
+      ],
+      "per_facet": [
+        "Ali, Amina",
+        "Buhari, Muhammadu",
+        "Luka, Serah"
+      ],
+      "geo_facet": [
+        "Nigeria",
+        "Chibok (Nigeria)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/NIGERIA/NIGERIA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Muhammadu Buhari of Nigeria, in glasses, met Amina Ali, one of nearly 300 girls kidnapped by Boko Haram in 2014, and her daughter on Thursday, two days after they were found.",
+          "copyright": "European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/NIGERIA/NIGERIA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Muhammadu Buhari of Nigeria, in glasses, met Amina Ali, one of nearly 300 girls kidnapped by Boko Haram in 2014, and her daughter on Thursday, two days after they were found.",
+          "copyright": "European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/NIGERIA/NIGERIA-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Muhammadu Buhari of Nigeria, in glasses, met Amina Ali, one of nearly 300 girls kidnapped by Boko Haram in 2014, and her daughter on Thursday, two days after they were found.",
+          "copyright": "European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/NIGERIA/NIGERIA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Muhammadu Buhari of Nigeria, in glasses, met Amina Ali, one of nearly 300 girls kidnapped by Boko Haram in 2014, and her daughter on Thursday, two days after they were found.",
+          "copyright": "European Pressphoto Agency"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/world/NIGERIA/NIGERIA-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1641,
+          "width": 2047,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Muhammadu Buhari of Nigeria, in glasses, met Amina Ali, one of nearly 300 girls kidnapped by Boko Haram in 2014, and her daughter on Thursday, two days after they were found.",
+          "copyright": "European Pressphoto Agency"
+        }
+      ],
+      "short_url": "http://nyti.ms/254e0JH"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Federal Judge in Texas Demands Justice Dept. Lawyers Take Ethics Class",
+      "abstract": "Judge Andrew S. Hanen accused the lawyers of lying to him during arguments in a case involving the president’s executive action over immigration.",
+      "url": "http://www.nytimes.com/2016/05/20/us/andrew-hanen-immigration-texas-court.html",
+      "byline": "By MICHAEL D. SHEAR",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T19:45:44-04:00",
+      "created_date": "2016-05-19T19:45:47-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Illegal Immigration"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Hanen, Andrew S"
+      ],
+      "geo_facet": [
+        "Brownsville (Tex)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20immig-web/20immig-web-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Andrew S. Hanen, left, during the United States Courthouse naming ceremony in Brownsville, Tex., in November 2005.",
+          "copyright": "Brad Doherty/Brownsville Herald, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20immig-web/20immig-web-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Andrew S. Hanen, left, during the United States Courthouse naming ceremony in Brownsville, Tex., in November 2005.",
+          "copyright": "Brad Doherty/Brownsville Herald, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20immig-web/20immig-web-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Andrew S. Hanen, left, during the United States Courthouse naming ceremony in Brownsville, Tex., in November 2005.",
+          "copyright": "Brad Doherty/Brownsville Herald, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20immig-web/20immig-web-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Andrew S. Hanen, left, during the United States Courthouse naming ceremony in Brownsville, Tex., in November 2005.",
+          "copyright": "Brad Doherty/Brownsville Herald, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/us/20immig-web/20immig-web-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1194,
+          "width": 1791,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Andrew S. Hanen, left, during the United States Courthouse naming ceremony in Brownsville, Tex., in November 2005.",
+          "copyright": "Brad Doherty/Brownsville Herald, via Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rXFpyB"
+    },
+    {
+      "section": "Fashion & Style",
+      "subsection": "Weddings",
+      "title": "You’ve Canceled the Wedding, Now the Aftermath",
+      "abstract": "Wedding jitters have long been Hollywood material, but in real life it can be traumatic. Also, six tips on easing the financial and emotional pain.",
+      "url": "http://www.nytimes.com/2016/05/22/fashion/weddings/canceled-weddings-what-to-do.html",
+      "byline": "By AMY SOHN",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T05:00:24-04:00",
+      "created_date": "2016-05-19T05:00:26-04:00",
+      "published_date": "2016-05-22T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Weddings and Engagements"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/22/fashion/22FIELDSUB/22FIELDSUB-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jessica Hische"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/22/fashion/22FIELDSUB/22FIELDSUB-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jessica Hische"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/22/fashion/22FIELDSUB/22FIELDSUB-articleInline.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jessica Hische"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/22/fashion/22FIELDSUB/22FIELDSUB-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jessica Hische"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/22/fashion/22FIELDSUB/22FIELDSUB-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1330,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jessica Hische"
+        }
+      ],
+      "short_url": "http://nyti.ms/1rVNunu"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "Media",
+      "title": "‘The Founder,’ Like Ray Kroc, Feasts on McDonald’s Imagery",
+      "abstract": "The movie uses McDonald’s well-guarded iconography for a bold visual tour of the chain’s early days, but treads lightly in its promotional material.",
+      "url": "http://www.nytimes.com/2016/05/20/business/media/the-founder-like-ray-kroc-feasts-on-mcdonalds-imagery.html",
+      "byline": "By MICHAEL CIEPLY",
+      "item_type": "Article",
+      "updated_date": "2016-05-20T00:32:14-04:00",
+      "created_date": "2016-05-19T20:32:00-04:00",
+      "published_date": "2016-05-20T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Trademarks and Trade Names",
+        "Fast Food Industry",
+        "The Founder (Movie)"
+      ],
+      "org_facet": [
+        "McDonald's Corporation",
+        "Weinstein Co"
+      ],
+      "per_facet": [
+        "Ray Kroc",
+        "Hancock, John Lee"
+      ],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/1rXJnYd"
+    },
+    {
+      "section": "Sports",
+      "subsection": "Golf",
+      "title": "Muirfield Golf Club Picks Discrimination Over the British Open",
+      "abstract": "The vote against admitting women seems to come from a bygone century, one in which men and women didn’t coexist in boardrooms and government.",
+      "url": "http://www.nytimes.com/2016/05/21/sports/golf/muirfield-golf-club-picks-discrimination-over-british-open.html",
+      "byline": "By KAREN CROUSE",
+      "item_type": "Article",
+      "updated_date": "2016-05-19T23:10:20-04:00",
+      "created_date": "2016-05-19T23:10:22-04:00",
+      "published_date": "2016-05-21T00:00:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "British Open (Golf)",
+        "Discrimination",
+        "Women and Girls",
+        "Organizations, Societies and Clubs"
+      ],
+      "org_facet": [
+        "Muirfield"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/sports/21CROUSE1/21CROUSE1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Fairweather, the captain of Muirfield Golf Club, announcing that members had voted against admitting women as club members.",
+          "copyright": "Andrew Milligan/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/sports/21CROUSE1/21CROUSE1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Fairweather, the captain of Muirfield Golf Club, announcing that members had voted against admitting women as club members.",
+          "copyright": "Andrew Milligan/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/sports/21CROUSE1/21CROUSE1-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Fairweather, the captain of Muirfield Golf Club, announcing that members had voted against admitting women as club members.",
+          "copyright": "Andrew Milligan/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/sports/21CROUSE1/21CROUSE1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Fairweather, the captain of Muirfield Golf Club, announcing that members had voted against admitting women as club members.",
+          "copyright": "Andrew Milligan/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2016/05/20/sports/21CROUSE1/21CROUSE1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1382,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Henry Fairweather, the captain of Muirfield Golf Club, announcing that members had voted against admitting women as club members.",
+          "copyright": "Andrew Milligan/Press Association, via Associated Press"
+        }
+      ],
+      "short_url": "http://nyti.ms/254ub9V"
+    },
+    {
+      "section": "Multimedia/Photos",
+      "subsection": "",
+      "title": "The Week in Pictures: May 20",
+      "abstract": "Photos from The New York Times and photographers from around the world.",
+      "url": "http://lens.blogs.nytimes.com/2016/05/20/the-week-in-pictures-may-20/",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Blogpost",
+      "updated_date": "2016-05-20T07:00:11+00:00",
+      "created_date": "2016-05-20T03:00:10-04:00",
+      "published_date": "2016-05-20T03:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "http://nyti.ms/1TiPUZF"
+    }
+  ]
+}
