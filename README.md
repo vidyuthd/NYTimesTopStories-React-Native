@@ -21,6 +21,8 @@
 - cd to directory and do ```npm install```
 - You would need [api key of new york times](https://developer.nytimes.com/signup) to run this
 - Replace the api key(API_KEY) in [RefreshableTopStoriesList](app/components/RefreshableTopStoriesList.js)
+- ```adb reverse tcp:8081 tcp:8081```
+- ```react-native run-android```
 
 ##Usage
 - [Running app on android device](https://facebook.github.io/react-native/docs/running-on-device-android.html#content)
