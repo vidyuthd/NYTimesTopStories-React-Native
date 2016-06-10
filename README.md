@@ -10,11 +10,8 @@
 - WebView to view news page
 - Pagination natively implemented by ListView
 
-## App Snapshots
-![Alt Text](snapshots/home_screen.png "Home Screen")
-![Alt Text](snapshots/news_view.png "News View")
-![Alt Text](snapshots/drawer_or_sidemenu.png "Side Menu")	
-![Alt Text](snapshots/technology_section_after_refresh.png "Technology News")
+## Android App Preview
+![Alt Text](snapshots/nytimes.gif)
 
 ##Installation
 - Clone or download the repo
