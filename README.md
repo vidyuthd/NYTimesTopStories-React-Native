@@ -10,11 +10,17 @@
 - WebView to view news page
 - Pagination natively implemented by ListView
 
+## App Snapshots
+![Alt Text](snapshots/home_screen.png "Home Screen")
+![Alt Text](snapshots/news_view.png "News View")
+![Alt Text](snapshots/drawer_or_sidemenu.png "Side Menu")	
+![Alt Text](snapshots/technology_section_after_refresh.png "Technology News")
+
 ##Installation
 - Clone or download the repo
 - cd to directory and do ```npm install```
 - You would need [api key of new york times](https://developer.nytimes.com/signup) to run this
-- Replace the api key in file (<API_KEY>) [RefreshableTopStoriesList](app/components/RefreshableTopStoriesList.js)
+- Replace the api key(API_KEY) in [RefreshableTopStoriesList](app/components/RefreshableTopStoriesList.js)
 
 ##Usage
 - [Running app on android device](https://facebook.github.io/react-native/docs/running-on-device-android.html#content)
