@@ -11,7 +11,7 @@
 - Pagination natively implemented by ListView
 
 ## Android App Preview
-![Alt Text](snapshots/nytimes.gif)
+![Imgur](http://i.imgur.com/SU9B3TM.gifv)
 
 ##Installation
 - Clone or download the repo
@@ -28,3 +28,9 @@
 - Clean up code
 - Proper styling with icons on android drawer
 - iOS implementation of app
+
+##License
+MIT
+
+##Disclaimer
+This is not a work of Newyork Times, this is an entity of single individual which uses api of Nytimes, which is not for commercial purposes, hence this app cannot be released on playstore. This app is only for demonstration and education purposes for learning react native.
