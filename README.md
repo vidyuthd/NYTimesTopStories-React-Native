@@ -11,7 +11,7 @@
 - Pagination natively implemented by ListView
 
 ## Android App Preview
-![Imgur](http://i.imgur.com/SU9B3TM.gifv)
+![Preview](snapshots/nytimes.gif)
 
 ##Installation
 - Clone or download the repo
